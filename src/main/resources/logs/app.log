@@ -1,0 +1,787 @@
+2019-37-03 21:37:40.924 [main] INFO   - Opened site
+2019-37-03 21:37:43.390 [main] INFO   - Click on Login Link
+2019-37-03 21:37:46.332 [main] INFO   - Fill data for auth
+2019-37-03 21:37:46.404 [main] INFO   - Verify user
+2019-37-03 21:37:46.936 [main] ERROR  - null
+2019-42-03 21:42:04.831 [main] INFO   - Opened site
+2019-42-03 21:42:07.520 [main] INFO   - Click on Login Link
+2019-42-03 21:42:10.254 [main] INFO   - Fill data for auth
+2019-42-03 21:42:10.309 [main] INFO   - Verify user
+2019-42-03 21:42:10.770 [main] ERROR  - null
+2019-43-03 21:43:09.353 [main] INFO   - Opened site
+2019-43-03 21:43:11.625 [main] INFO   - Click on Login Link
+2019-43-03 21:43:14.423 [main] INFO   - Fill data for auth
+2019-43-03 21:43:14.476 [main] INFO   - Verify user
+2019-57-03 21:57:27.074 [main] INFO   - Opened site
+2019-57-03 21:57:29.232 [main] INFO   - Click on Login Link
+2019-57-03 21:57:31.975 [main] INFO   - Fill data for auth
+2019-57-03 21:57:32.029 [main] INFO   - Verify user
+2019-18-03 22:18:31.141 [main] INFO   - Opened site
+2019-18-03 22:18:34.557 [main] INFO   - Click on Login Link
+2019-18-03 22:18:37.234 [main] INFO   - Fill data for auth
+2019-18-03 22:18:37.288 [main] INFO   - Verify user
+2019-22-03 22:22:21.005 [main] INFO   - Opened site
+2019-22-03 22:22:23.515 [main] INFO   - Click on Login Link
+2019-22-03 22:22:26.371 [main] INFO   - Fill data for auth
+2019-22-03 22:22:26.425 [main] INFO   - Verify user
+2019-24-03 22:24:20.615 [main] INFO   - Opened site
+2019-24-03 22:24:22.801 [main] INFO   - Click on Login Link
+2019-24-03 22:24:26.082 [main] INFO   - Fill data for auth
+2019-24-03 22:24:26.136 [main] INFO   - Verify user
+2019-24-03 22:24:55.871 [main] INFO   - Opened site
+2019-25-03 22:25:00.047 [main] INFO   - Click on Login Link
+2019-25-03 22:25:03.489 [main] INFO   - Fill data for auth
+2019-25-03 22:25:03.547 [main] INFO   - Verify user
+2019-37-03 22:37:52.445 [main] INFO   - Opened site
+2019-37-03 22:37:54.798 [main] INFO   - Click on Login Link
+2019-37-03 22:37:58.001 [main] INFO   - Fill data for auth
+2019-37-03 22:37:58.067 [main] INFO   - Verify user
+2019-38-03 22:38:32.365 [main] INFO   - Opened site
+2019-38-03 22:38:34.510 [main] INFO   - Click on Login Link
+2019-38-03 22:38:38.041 [main] INFO   - Fill data for auth
+2019-38-03 22:38:38.095 [main] INFO   - Verify user
+2019-39-03 22:39:27.431 [main] INFO   - Opened site
+2019-39-03 22:39:29.817 [main] INFO   - Click on Login Link
+2019-39-03 22:39:33.128 [main] INFO   - Fill data for auth
+2019-39-03 22:39:33.182 [main] INFO   - Verify user
+2019-06-03 23:06:13.159 [main] INFO   - Opened site
+2019-06-03 23:06:15.778 [main] INFO   - Click on Login Link
+2019-06-03 23:06:18.522 [main] INFO   - Fill data for auth
+2019-06-03 23:06:18.577 [main] INFO   - Verify user
+2019-06-03 23:06:28.066 [main] ERROR  - For input string: "$16.51"
+2019-08-03 23:08:15.834 [main] INFO   - Opened site
+2019-08-03 23:08:19.568 [main] INFO   - Click on Login Link
+2019-08-03 23:08:23.581 [main] INFO   - Fill data for auth
+2019-08-03 23:08:23.634 [main] INFO   - Verify user
+2019-08-03 23:08:37.357 [main] ERROR  - empty String
+2019-10-03 23:10:07.854 [main] INFO   - Opened site
+2019-10-03 23:10:10.071 [main] INFO   - Click on Login Link
+2019-10-03 23:10:12.791 [main] INFO   - Fill data for auth
+2019-10-03 23:10:12.846 [main] INFO   - Verify user
+2019-10-03 23:10:22.706 [main] ERROR  - For input string: "16,51"
+2019-12-03 23:12:39.948 [main] INFO   - Opened site
+2019-12-03 23:12:42.493 [main] INFO   - Click on Login Link
+2019-12-03 23:12:45.367 [main] INFO   - Fill data for auth
+2019-12-03 23:12:45.422 [main] INFO   - Verify user
+2019-12-03 23:12:57.159 [main] ERROR  - empty String
+2019-15-03 23:15:12.916 [main] INFO   - Opened site
+2019-15-03 23:15:15.262 [main] INFO   - Click on Login Link
+2019-15-03 23:15:17.998 [main] INFO   - Fill data for auth
+2019-15-03 23:15:18.058 [main] INFO   - Verify user
+2019-15-03 23:15:28.443 [main] ERROR  - empty String
+2019-16-03 23:16:53.466 [main] INFO   - Opened site
+2019-16-03 23:16:55.693 [main] INFO   - Click on Login Link
+2019-16-03 23:16:58.493 [main] INFO   - Fill data for auth
+2019-16-03 23:16:58.548 [main] INFO   - Verify user
+2019-17-03 23:17:08.542 [main] ERROR  - Price is different! expected:<3[3].02> but was:<3[5].02>
+2019-19-03 23:19:40.506 [main] INFO   - Opened site
+2019-19-03 23:19:44.905 [main] INFO   - Click on Login Link
+2019-19-03 23:19:47.705 [main] INFO   - Fill data for auth
+2019-19-03 23:19:47.759 [main] INFO   - Verify user
+2019-20-03 23:20:00.445 [main] ERROR  - For input string: "$2.00"
+2019-20-03 23:20:36.218 [main] INFO   - Opened site
+2019-20-03 23:20:38.619 [main] INFO   - Click on Login Link
+2019-20-03 23:20:41.365 [main] INFO   - Fill data for auth
+2019-20-03 23:20:41.420 [main] INFO   - Verify user
+2019-22-04 00:22:15.113 [main] INFO   - Opened site
+2019-22-04 00:22:18.939 [main] INFO   - Click on Login Link
+2019-22-04 00:22:22.111 [main] INFO   - Fill data for auth
+2019-22-04 00:22:22.174 [main] INFO   - Verify user
+2019-23-04 00:23:06.591 [main] INFO   - Opened site
+2019-23-04 00:23:09.825 [main] INFO   - Click on Login Link
+2019-23-04 00:23:12.506 [main] INFO   - Fill data for auth
+2019-23-04 00:23:12.560 [main] INFO   - Verify user
+2019-29-04 00:29:54.215 [main] INFO   - Opened site
+2019-29-04 00:29:57.225 [main] INFO   - Click on Login Link
+2019-29-04 00:29:59.912 [main] INFO   - Fill data for auth
+2019-29-04 00:29:59.966 [main] INFO   - Verify user
+2019-30-04 00:30:03.103 [main] INFO   - Click on T-Shirt menu's item
+2019-30-04 00:30:05.486 [main] INFO   - Click on Product
+2019-30-04 00:30:05.548 [main] INFO   - Checking Breadcrumbs
+2019-30-04 00:30:07.328 [main] INFO   - Add Product to card
+2019-30-04 00:30:09.253 [main] INFO   - Proceed to checkout
+2019-30-04 00:30:10.973 [main] INFO   - Increase quantity of product
+2019-30-04 00:30:11.166 [main] INFO   - Check price
+2019-30-04 00:30:13.907 [main] INFO   - Delete product from the card
+2019-30-04 00:30:13.960 [main] INFO   - Check title on empty card page
+2019-30-04 00:30:14.729 [main] INFO   - Closed site
+2019-36-04 21:36:52.328 [main] INFO   - Opened site
+2019-36-04 21:36:55.274 [main] INFO   - Click on Login Link
+2019-36-04 21:36:58.142 [main] INFO   - Fill data for auth
+2019-36-04 21:36:58.204 [main] INFO   - Verify user
+2019-37-04 21:37:00.465 [main] INFO   - Click on T-Shirt menu's item
+2019-37-04 21:37:02.552 [main] INFO   - Click on Product
+2019-37-04 21:37:02.621 [main] INFO   - Checking Breadcrumbs
+2019-37-04 21:37:03.893 [main] INFO   - Add Product to card
+2019-37-04 21:37:05.819 [main] INFO   - Proceed to checkout
+2019-37-04 21:37:07.036 [main] INFO   - Increase quantity of product
+2019-37-04 21:37:07.258 [main] INFO   - Check price
+2019-37-04 21:37:09.349 [main] INFO   - Delete product from the card
+2019-37-04 21:37:09.393 [main] INFO   - Check title on empty card page
+2019-37-04 21:37:10.155 [main] INFO   - Closed site
+2019-42-04 21:42:45.836 [main] INFO   - Opened site
+2019-42-04 21:42:48.939 [main] INFO   - Click on Login Link
+2019-42-04 21:42:51.592 [main] INFO   - Fill data for auth
+2019-42-04 21:42:51.647 [main] INFO   - Verify user
+2019-42-04 21:42:54.864 [main] INFO   - Click on T-Shirt menu's item
+2019-42-04 21:42:57.231 [main] INFO   - Click on Product
+2019-42-04 21:42:57.288 [main] INFO   - Checking Breadcrumbs
+2019-42-04 21:42:58.541 [main] INFO   - Add Product to card
+2019-43-04 21:43:00.340 [main] INFO   - Proceed to checkout
+2019-43-04 21:43:01.593 [main] INFO   - Increase quantity of product
+2019-43-04 21:43:01.788 [main] INFO   - Check price
+2019-43-04 21:43:03.897 [main] INFO   - Delete product from the card
+2019-43-04 21:43:03.942 [main] INFO   - Check title on empty card page
+2019-43-04 21:43:04.724 [main] INFO   - Close site
+2019-46-04 22:46:41.705 [main] INFO   - Opened site
+2019-46-04 22:46:45.236 [main] INFO   - Click on Login Link
+2019-46-04 22:46:48.696 [main] INFO   - Fill data for auth
+2019-46-04 22:46:48.758 [main] INFO   - Verify user
+2019-46-04 22:46:52.507 [main] INFO   - Click on T-Shirt menu's item
+2019-46-04 22:46:56.705 [main] INFO   - Click on Product
+2019-46-04 22:46:56.773 [main] INFO   - Checking Breadcrumbs
+2019-46-04 22:46:58.048 [main] INFO   - Add Product to card
+2019-47-04 22:47:01.150 [main] INFO   - Proceed to checkout
+2019-47-04 22:47:03.421 [main] INFO   - Increase quantity of product
+2019-47-04 22:47:03.645 [main] INFO   - Check price
+2019-47-04 22:47:06.063 [main] INFO   - Delete product from the card
+2019-47-04 22:47:06.107 [main] INFO   - Check title on empty card page
+2019-47-04 22:47:06.876 [main] INFO   - Close site
+2019-37-16 20:37:41.276 [main] INFO   - Opened site
+2019-37-16 20:37:44.117 [main] INFO   - Click on Login Link
+2019-37-16 20:37:47.016 [main] INFO   - Fill data for auth
+2019-37-16 20:37:47.078 [main] INFO   - Verify user
+2019-37-16 20:37:49.618 [main] INFO   - Click on T-Shirt menu's item
+2019-37-16 20:37:50.345 [main] ERROR  - invalid selector: Unable to locate an element with the xpath expression //a[contains(text(), productName because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(), productName' is not a valid XPath expression.
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:1326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 08051f870e1b5fde08825221c6388834
+*** Element info: {Using=xpath, value=//a[contains(text(), productName}
+2019-41-16 20:41:37.961 [main] INFO   - Opened site
+2019-41-16 20:41:41.109 [main] INFO   - Click on Login Link
+2019-41-16 20:41:43.797 [main] INFO   - Fill data for auth
+2019-41-16 20:41:43.851 [main] INFO   - Verify user
+2019-41-16 20:41:47.317 [main] INFO   - Click on T-Shirt menu's item
+2019-41-16 20:41:47.912 [main] ERROR  - invalid selector: Unable to locate an element with the xpath expression //a[contains(text(), productName because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(), productName' is not a valid XPath expression.
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:1485}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 1ad1ce5bbdcd89ba9870b07665d50e90
+*** Element info: {Using=xpath, value=//a[contains(text(), productName}
+2019-52-16 20:52:05.730 [main] INFO   - Opened site
+2019-52-16 20:52:07.908 [main] INFO   - Click on Login Link
+2019-52-16 20:52:10.642 [main] INFO   - Fill data for auth
+2019-52-16 20:52:10.696 [main] INFO   - Verify user
+2019-52-16 20:52:13.041 [main] INFO   - Click on T-Shirt menu's item
+2019-52-16 20:52:15.407 [main] INFO   - Click on Product
+2019-52-16 20:52:15.473 [main] INFO   - Checking Breadcrumbs
+2019-52-16 20:52:16.745 [main] INFO   - Add Product to card
+2019-52-16 20:52:18.518 [main] INFO   - Proceed to checkout
+2019-52-16 20:52:19.744 [main] INFO   - Increase quantity of product
+2019-52-16 20:52:19.969 [main] INFO   - Check price
+2019-52-16 20:52:21.827 [main] INFO   - Delete product from the card
+2019-52-16 20:52:21.872 [main] INFO   - Check title on empty card page
+2019-52-16 20:52:22.631 [main] INFO   - Close site
+2019-26-16 23:26:28.358 [main] INFO   - Opened site
+2019-26-16 23:26:30.496 [main] INFO   - Click on Login Link
+2019-26-16 23:26:33.610 [main] INFO   - Fill data for auth
+2019-26-16 23:26:33.672 [main] INFO   - Verify user
+2019-26-16 23:26:35.971 [main] INFO   - Click on T-Shirt menu's item
+2019-26-16 23:26:39.277 [main] INFO   - Click on Product
+2019-26-16 23:26:39.898 [main] ERROR  - Breadcrum is different! expected:<[Women > Tops > T-Shirts > ]Faded Short Sleeve T...> but was:<[> Women>Tops>T-shirts>]Faded Short Sleeve T...>
+2019-27-16 23:27:55.193 [main] INFO   - Opened site
+2019-27-16 23:27:57.649 [main] INFO   - Click on Login Link
+2019-28-16 23:28:00.694 [main] INFO   - Fill data for auth
+2019-28-16 23:28:00.748 [main] INFO   - Verify user
+2019-28-16 23:28:03.181 [main] INFO   - Click on T-Shirt menu's item
+2019-28-16 23:28:05.993 [main] INFO   - Click on Product
+2019-28-16 23:28:06.588 [main] ERROR  - Breadcrum is different! expected:<[Women>Tops>T-S]hirts>Faded Short Sl...> but was:<[> Women>Tops>T-s]hirts>Faded Short Sl...>
+2019-28-16 23:28:55.513 [main] INFO   - Opened site
+2019-28-16 23:28:57.664 [main] INFO   - Click on Login Link
+2019-29-16 23:29:00.435 [main] INFO   - Fill data for auth
+2019-29-16 23:29:00.489 [main] INFO   - Verify user
+2019-29-16 23:29:02.585 [main] INFO   - Click on T-Shirt menu's item
+2019-29-16 23:29:04.913 [main] INFO   - Click on Product
+2019-29-16 23:29:05.484 [main] ERROR  - Breadcrum is different! expected:<> Women>Tops>T-[S]hirts>Faded Short Sl...> but was:<> Women>Tops>T-[s]hirts>Faded Short Sl...>
+2019-29-16 23:29:43.558 [main] INFO   - Opened site
+2019-29-16 23:29:45.723 [main] INFO   - Click on Login Link
+2019-29-16 23:29:48.175 [main] INFO   - Fill data for auth
+2019-29-16 23:29:48.229 [main] INFO   - Verify user
+2019-29-16 23:29:50.736 [main] INFO   - Click on T-Shirt menu's item
+2019-29-16 23:29:52.898 [main] INFO   - Click on Product
+2019-29-16 23:29:53.005 [main] INFO   - Checking Breadcrumbs
+2019-29-16 23:29:54.275 [main] INFO   - Add Product to card
+2019-29-16 23:29:56.419 [main] INFO   - Proceed to checkout
+2019-29-16 23:29:57.644 [main] INFO   - Increase quantity of product
+2019-29-16 23:29:57.863 [main] INFO   - Check price
+2019-30-16 23:30:00.368 [main] INFO   - Delete product from the card
+2019-30-16 23:30:00.413 [main] INFO   - Check title on empty card page
+2019-30-16 23:30:01.190 [main] INFO   - Close site
+2019-31-16 23:31:01.578 [main] INFO   - Opened site
+2019-31-16 23:31:04.836 [main] INFO   - Click on Login Link
+2019-31-16 23:31:08.182 [main] INFO   - Fill data for auth
+2019-31-16 23:31:08.236 [main] INFO   - Verify user
+2019-31-16 23:31:10.423 [main] INFO   - Click on T-Shirt menu's item
+2019-31-16 23:31:12.742 [main] INFO   - Click on Product
+2019-31-16 23:31:12.853 [main] INFO   - Checking Breadcrumbs
+2019-31-16 23:31:14.112 [main] INFO   - Add Product to card
+2019-31-16 23:31:16.112 [main] INFO   - Proceed to checkout
+2019-31-16 23:31:17.343 [main] INFO   - Increase quantity of product
+2019-31-16 23:31:17.556 [main] INFO   - Check price
+2019-31-16 23:31:19.634 [main] INFO   - Delete product from the card
+2019-31-16 23:31:19.684 [main] INFO   - Check title on empty card page
+2019-31-16 23:31:20.524 [main] INFO   - Close site
+2019-39-16 23:39:32.733 [main] INFO   - Opened site
+2019-39-16 23:39:37.000 [main] INFO   - Click on Login Link
+2019-39-16 23:39:41.502 [main] INFO   - Fill data for auth
+2019-39-16 23:39:41.557 [main] INFO   - Verify user
+2019-39-16 23:39:44.570 [main] INFO   - Click on T-Shirt menu's item
+2019-39-16 23:39:49.063 [main] INFO   - Click on Product
+2019-39-16 23:39:49.217 [main] INFO   - Checking Breadcrumbs
+2019-39-16 23:39:51.563 [main] INFO   - Add Product to card
+2019-39-16 23:39:53.473 [main] INFO   - Proceed to checkout
+2019-39-16 23:39:54.686 [main] INFO   - Increase quantity of product
+2019-39-16 23:39:54.873 [main] INFO   - Check price
+2019-39-16 23:39:57.462 [main] INFO   - Delete product from the card
+2019-39-16 23:39:57.537 [main] INFO   - Check title on empty card page
+2019-39-16 23:39:58.305 [main] INFO   - Close site
+2019-48-17 20:48:24.185 [main] INFO   - Opened site
+2019-48-17 20:48:27.936 [main] INFO   - Click on Login Link
+2019-48-17 20:48:31.496 [main] INFO   - Fill data for auth
+2019-48-17 20:48:31.559 [main] INFO   - Verify user
+2019-48-17 20:48:42.424 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //ul[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li[@class='sfHoverForce']/a[contains(text(), 'T-shirts')]' (tried for 10 second(s) with 500 milliseconds interval)
+2019-57-17 20:57:37.682 [main] INFO   - Opened site
+2019-57-17 20:57:40.330 [main] INFO   - Click on Login Link
+2019-57-17 20:57:43.062 [main] INFO   - Fill data for auth
+2019-57-17 20:57:43.116 [main] INFO   - Verify user
+2019-57-17 20:57:45.980 [main] INFO   - Click on T-Shirt menu's item
+2019-57-17 20:57:48.247 [main] INFO   - Click on Product
+2019-57-17 20:57:48.412 [main] INFO   - Checking Breadcrumbs
+2019-57-17 20:57:49.721 [main] INFO   - Add Product to card
+2019-57-17 20:57:51.465 [main] INFO   - Proceed to checkout
+2019-57-17 20:57:52.692 [main] INFO   - Increase quantity of product
+2019-57-17 20:57:53.350 [main] ERROR  - Price is different! expected:<[68.04]> but was:<[35.02]>
+2019-01-17 21:01:43.846 [main] INFO   - Opened site
+2019-01-17 21:01:46.136 [main] INFO   - Click on Login Link
+2019-01-17 21:01:48.872 [main] INFO   - Fill data for auth
+2019-01-17 21:01:48.926 [main] INFO   - Verify user
+2019-01-17 21:01:51.097 [main] INFO   - Click on T-Shirt menu's item
+2019-01-17 21:01:53.040 [main] INFO   - Click on Product
+2019-01-17 21:01:53.187 [main] INFO   - Checking Breadcrumbs
+2019-01-17 21:01:54.476 [main] INFO   - Add Product to card
+2019-01-17 21:01:56.275 [main] INFO   - Proceed to checkout
+2019-01-17 21:01:58.004 [main] INFO   - Increase quantity of product
+2019-01-17 21:01:58.639 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//td[@id='total_price']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2855}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 9b9ca63a2e20cc27d317e75775113636
+*** Element info: {Using=xpath, value=//td[@id='total_price']}
+2019-02-17 21:02:41.415 [main] INFO   - Opened site
+2019-02-17 21:02:44.368 [main] INFO   - Click on Login Link
+2019-02-17 21:02:48.631 [main] INFO   - Fill data for auth
+2019-02-17 21:02:48.685 [main] INFO   - Verify user
+2019-02-17 21:02:52.897 [main] INFO   - Click on T-Shirt menu's item
+2019-02-17 21:02:55.630 [main] INFO   - Click on Product
+2019-02-17 21:02:55.781 [main] INFO   - Checking Breadcrumbs
+2019-02-17 21:02:57.072 [main] INFO   - Add Product to card
+2019-02-17 21:02:59.046 [main] INFO   - Proceed to checkout
+2019-03-17 21:03:00.256 [main] INFO   - Increase quantity of product
+2019-03-17 21:03:00.455 [main] INFO   - Check price
+2019-03-17 21:03:11.104 [main] ERROR  - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a1e3c124e8f527aa3b3997e866467e45)] -> xpath: //p[@class='alert alert-warning']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2944}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a1e3c124e8f527aa3b3997e866467e45
+2019-03-17 21:03:51.946 [main] INFO   - Opened site
+2019-03-17 21:03:54.209 [main] INFO   - Click on Login Link
+2019-03-17 21:03:57.307 [main] INFO   - Fill data for auth
+2019-03-17 21:03:57.360 [main] INFO   - Verify user
+2019-04-17 21:04:00.764 [main] INFO   - Click on T-Shirt menu's item
+2019-04-17 21:04:02.941 [main] INFO   - Click on Product
+2019-04-17 21:04:03.091 [main] INFO   - Checking Breadcrumbs
+2019-04-17 21:04:04.912 [main] INFO   - Add Product to card
+2019-04-17 21:04:07.340 [main] INFO   - Proceed to checkout
+2019-04-17 21:04:09.594 [main] INFO   - Increase quantity of product
+2019-04-17 21:04:09.785 [main] INFO   - Check price
+2019-04-17 21:04:09.964 [main] INFO   - Delete product from the card
+2019-04-17 21:04:20.428 [main] ERROR  - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (c4cb59fb17c44420a1fbb5f73b2c0fe9)] -> xpath: //p[@class='alert alert-warning']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:3076}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: c4cb59fb17c44420a1fbb5f73b2c0fe9
+2019-05-17 21:05:54.200 [main] INFO   - Opened site
+2019-05-17 21:05:58.706 [main] INFO   - Click on Login Link
+2019-06-17 21:06:01.621 [main] INFO   - Fill data for auth
+2019-06-17 21:06:01.675 [main] INFO   - Verify user
+2019-06-17 21:06:04.205 [main] INFO   - Click on T-Shirt menu's item
+2019-06-17 21:06:06.384 [main] INFO   - Click on Product
+2019-06-17 21:06:06.540 [main] INFO   - Checking Breadcrumbs
+2019-06-17 21:06:07.830 [main] INFO   - Add Product to card
+2019-06-17 21:06:10.236 [main] INFO   - Proceed to checkout
+2019-06-17 21:06:11.443 [main] INFO   - Increase quantity of product
+2019-06-17 21:06:11.630 [main] INFO   - Check price
+2019-06-17 21:06:11.787 [main] INFO   - Delete product from the card
+2019-06-17 21:06:15.147 [main] INFO   - Check title on empty card page
+2019-06-17 21:06:15.924 [main] INFO   - Close site
+2019-07-17 21:07:32.537 [main] INFO   - Opened site
+2019-07-17 21:07:35.619 [main] INFO   - Click on Login Link
+2019-07-17 21:07:38.321 [main] INFO   - Fill data for auth
+2019-07-17 21:07:38.375 [main] INFO   - Verify user
+2019-07-17 21:07:40.797 [main] INFO   - Click on T-Shirt menu's item
+2019-07-17 21:07:43.391 [main] INFO   - Click on Product
+2019-07-17 21:07:43.676 [main] INFO   - Checking Breadcrumbs
+2019-07-17 21:07:46.095 [main] INFO   - Add Product to card
+2019-07-17 21:07:48.086 [main] INFO   - Proceed to checkout
+2019-07-17 21:07:49.335 [main] INFO   - Increase quantity of product
+2019-07-17 21:07:49.526 [main] INFO   - Check price
+2019-07-17 21:07:49.684 [main] INFO   - Delete product from the card
+2019-07-17 21:07:52.050 [main] INFO   - Check title on empty card page
+2019-07-17 21:07:52.827 [main] INFO   - Close site
+2019-16-17 21:16:45.028 [main] INFO   - Opened site
+2019-16-17 21:16:47.809 [main] INFO   - Click on Login Link
+2019-16-17 21:16:50.837 [main] INFO   - Fill data for auth
+2019-16-17 21:16:50.891 [main] INFO   - Verify user
+2019-16-17 21:16:53.210 [main] INFO   - Click on T-Shirt menu's item
+2019-16-17 21:16:56.719 [main] INFO   - Click on Product
+2019-16-17 21:16:56.873 [main] INFO   - Checking Breadcrumbs
+2019-16-17 21:16:58.691 [main] INFO   - Add Product to card
+2019-17-17 21:17:00.939 [main] INFO   - Proceed to checkout
+2019-17-17 21:17:02.723 [main] INFO   - Increase quantity of product
+2019-17-17 21:17:02.915 [main] INFO   - Check price
+2019-17-17 21:17:03.084 [main] INFO   - Delete product from the card
+2019-17-17 21:17:05.559 [main] INFO   - Check title on empty card page
+2019-17-17 21:17:06.325 [main] INFO   - Close site
+2019-03-19 00:03:33.755 [main] INFO   - Opened site
+2019-03-19 00:03:36.253 [main] INFO   - Click on Login Link
+2019-03-19 00:03:38.903 [main] INFO   - Fill data for auth
+2019-03-19 00:03:38.953 [main] INFO   - Verify user
+2019-03-19 00:03:41.183 [main] INFO   - Click on T-Shirt menu's item
+2019-03-19 00:03:43.346 [main] INFO   - Click on Product
+2019-03-19 00:03:43.478 [main] INFO   - Checking Breadcrumbs
+2019-03-19 00:03:44.731 [main] INFO   - Add Product to card
+2019-03-19 00:03:46.603 [main] INFO   - Proceed to checkout
+2019-03-19 00:03:47.821 [main] INFO   - Increase quantity of product
+2019-03-19 00:03:47.989 [main] INFO   - Check price
+2019-03-19 00:03:48.120 [main] INFO   - Delete product from the card
+2019-03-19 00:03:50.113 [main] INFO   - Check title on empty card page
+2019-03-19 00:03:50.969 [main] INFO   - Close site
+2019-50-27 21:50:12.660 [main] INFO   - Opened site
+2019-50-27 21:50:14.915 [main] INFO   - Click on Login Link
+2019-50-27 21:50:17.544 [main] INFO   - Fill data for auth
+2019-50-27 21:50:26.006 [main] INFO   - Opened site
+2019-50-27 21:50:28.316 [main] INFO   - Click on Login Link
+2019-50-27 21:50:31.510 [main] INFO   - Fill data for auth
+2019-50-27 21:50:31.553 [main] INFO   - Verify user
+2019-50-27 21:50:33.932 [main] INFO   - Click on T-Shirt menu's item
+2019-50-27 21:50:36.370 [main] INFO   - Click on Product
+2019-50-27 21:50:36.490 [main] INFO   - Checking Breadcrumbs
+2019-50-27 21:50:38.249 [main] INFO   - Add Product to card
+2019-50-27 21:50:40.321 [main] INFO   - Proceed to checkout
+2019-50-27 21:50:41.522 [main] INFO   - Increase quantity of product
+2019-50-27 21:50:41.681 [main] INFO   - Check price
+2019-50-27 21:50:41.798 [main] INFO   - Delete product from the card
+2019-50-27 21:50:44.568 [main] INFO   - Check title on empty card page
+2019-50-27 21:50:45.333 [main] INFO   - Close site
+2019-08-27 22:08:54.966 [main] INFO   - Opened site
+2019-08-27 22:08:57.514 [main] INFO   - Click on Login Link
+2019-09-27 22:09:00.882 [main] INFO   - Fill data for auth
+2019-09-27 22:09:01.414 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"a[@title='Women']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2232}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: ce48651f76b684b4d2675a8da4bf5c81
+*** Element info: {Using=xpath, value=a[@title='Women']}
+2019-10-27 22:10:29.726 [main] INFO   - Opened site
+2019-10-27 22:10:32.218 [main] INFO   - Click on Login Link
+2019-10-27 22:10:35.564 [main] INFO   - Fill data for auth
+2019-10-27 22:10:35.688 [main] INFO   - Move to Women category
+2019-10-27 22:10:38.544 [main] INFO   - Click on evening Dresses
+2019-05-27 23:05:55.909 [main] INFO   - Opened site
+2019-05-27 23:05:59.073 [main] INFO   - Click on Login Link
+2019-06-27 23:06:01.927 [main] INFO   - Fill data for auth
+2019-06-27 23:06:02.028 [main] INFO   - Move to Women category
+2019-06-27 23:06:05.423 [main] INFO   - Click on evening Dresses
+2019-06-27 23:06:05.634 [main] INFO   - Open Product in new tab
+2019-15-27 23:15:05.149 [main] INFO   - Opened site
+2019-15-27 23:15:08.162 [main] INFO   - Click on Login Link
+2019-15-27 23:15:11.345 [main] INFO   - Fill data for auth
+2019-15-27 23:15:11.389 [main] INFO   - Verify username
+2019-15-27 23:15:21.967 [main] ERROR  - Expected condition failed: waiting for number of open windows to be 2 (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5880}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 51887317d6ff2675f158394fd58d4232
+2019-16-27 23:16:06.597 [main] INFO   - Opened site
+2019-16-27 23:16:09.140 [main] INFO   - Click on Login Link
+2019-16-27 23:16:13.337 [main] INFO   - Fill data for auth
+2019-16-27 23:16:13.381 [main] INFO   - Verify username
+2019-16-27 23:16:13.837 [main] ERROR  - unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5973}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 067a6a4294d8f82a38d4919e026e4fba
+2019-17-27 23:17:41.257 [main] INFO   - Opened site
+2019-17-27 23:17:43.356 [main] INFO   - Click on Login Link
+2019-17-27 23:17:46.004 [main] INFO   - Fill data for auth
+2019-17-27 23:17:46.124 [main] INFO   - Move to Women category
+2019-17-27 23:17:49.305 [main] INFO   - Click on evening Dresses
+2019-17-27 23:17:49.487 [main] INFO   - Open Product in new tab
+2019-17-27 23:17:52.018 [main] ERROR  - null
+2019-18-27 23:18:20.493 [main] INFO   - Opened site
+2019-18-27 23:18:23.099 [main] INFO   - Click on Login Link
+2019-18-27 23:18:25.946 [main] INFO   - Fill data for auth
+2019-18-27 23:18:26.079 [main] INFO   - Move to Women category
+2019-18-27 23:18:29.439 [main] INFO   - Click on evening Dresses
+2019-18-27 23:18:29.635 [main] INFO   - Open Product in new tab
+2019-19-27 23:19:36.544 [main] INFO   - Opened site
+2019-19-27 23:19:38.763 [main] INFO   - Click on Login Link
+2019-19-27 23:19:41.386 [main] INFO   - Fill data for auth
+2019-19-27 23:19:41.500 [main] INFO   - Move to Women category
+2019-19-27 23:19:44.771 [main] INFO   - Click on evening Dresses
+2019-19-27 23:19:44.985 [main] INFO   - Open Product in new tab
+2019-19-27 23:19:47.613 [main] ERROR  - null
+2019-21-27 23:21:51.385 [main] INFO   - Opened site
+2019-21-27 23:21:55.970 [main] INFO   - Click on Login Link
+2019-21-27 23:21:58.707 [main] INFO   - Fill data for auth
+2019-21-27 23:21:58.817 [main] INFO   - Move to Women category
+2019-22-27 23:22:02.589 [main] INFO   - Click on evening Dresses
+2019-22-27 23:22:02.811 [main] INFO   - Open Product in new tab
+2019-22-27 23:22:03.853 [main] INFO   - Switch to new tab
+2019-22-27 23:22:05.575 [main] ERROR  - null
+2019-38-27 23:38:46.551 [main] INFO   - Opened site
+2019-38-27 23:38:49.034 [main] INFO   - Click on Login Link
+2019-38-27 23:38:52.266 [main] INFO   - Fill data for auth
+2019-38-27 23:38:52.377 [main] INFO   - Move to Women category
+2019-38-27 23:38:56.084 [main] INFO   - Click on evening Dresses
+2019-38-27 23:38:58.335 [main] INFO   - Open Product in new tab
+2019-38-27 23:38:58.351 [main] INFO   - Switch to new tab
+2019-38-27 23:38:58.865 [main] ERROR  - null
+2019-47-27 23:47:05.676 [main] INFO   - Opened site
+2019-47-27 23:47:08.940 [main] INFO   - Click on Login Link
+2019-47-27 23:47:12.239 [main] INFO   - Fill data for auth
+2019-47-27 23:47:12.341 [main] INFO   - Move to Women category
+2019-47-27 23:47:15.882 [main] INFO   - Click on evening Dresses
+2019-47-27 23:47:18.433 [main] INFO   - Open Product in new tab
+2019-47-27 23:47:18.448 [main] INFO   - Switch to new tab
+2019-47-27 23:47:18.566 [main] INFO   - Switch to pink color
+2019-47-27 23:47:19.128 [main] ERROR  - null
+2019-47-27 23:47:47.914 [main] INFO   - Opened site
+2019-47-27 23:47:51.063 [main] INFO   - Click on Login Link
+2019-47-27 23:47:54.514 [main] INFO   - Fill data for auth
+2019-47-27 23:47:54.634 [main] INFO   - Move to Women category
+2019-47-27 23:47:57.581 [main] INFO   - Click on evening Dresses
+2019-47-27 23:47:59.532 [main] INFO   - Open Product in new tab
+2019-47-27 23:47:59.547 [main] INFO   - Switch to new tab
+2019-47-27 23:47:59.665 [main] INFO   - Switch to pink color
+2019-48-27 23:48:00.224 [main] ERROR  - null
+2019-55-27 23:55:43.403 [main] INFO   - Opened site
+2019-55-27 23:55:45.973 [main] INFO   - Click on Login Link
+2019-55-27 23:55:49.137 [main] INFO   - Fill data for auth
+2019-55-27 23:55:49.248 [main] INFO   - Move to Women category
+2019-55-27 23:55:52.103 [main] INFO   - Click on evening Dresses
+2019-55-27 23:55:54.651 [main] INFO   - Open Product in new tab
+2019-55-27 23:55:54.666 [main] INFO   - Switch to new tab
+2019-55-27 23:55:54.784 [main] INFO   - Switch to pink color
+2019-55-27 23:55:54.982 [main] INFO   - Select L size
+2019-55-27 23:55:55.534 [main] ERROR  - null
+2019-00-28 00:00:08.556 [main] INFO   - Opened site
+2019-00-28 00:00:11.335 [main] INFO   - Click on Login Link
+2019-00-28 00:00:14.524 [main] INFO   - Fill data for auth
+2019-00-28 00:00:14.679 [main] INFO   - Move to Women category
+2019-00-28 00:00:17.774 [main] INFO   - Click on evening Dresses
+2019-00-28 00:00:19.975 [main] INFO   - Open Product in new tab
+2019-00-28 00:00:20.000 [main] INFO   - Switch to new tab
+2019-00-28 00:00:20.120 [main] INFO   - Switch to pink color
+2019-00-28 00:00:20.321 [main] INFO   - Select L size
+2019-00-28 00:00:21.575 [main] INFO   - Click Add to cart button
+2019-00-28 00:00:21.720 [main] INFO   - Click Continue shopping button
+2019-00-28 00:00:22.259 [main] ERROR  - null
+2019-01-28 00:01:06.324 [main] INFO   - Opened site
+2019-01-28 00:01:09.793 [main] INFO   - Click on Login Link
+2019-01-28 00:01:13.212 [main] INFO   - Fill data for auth
+2019-01-28 00:01:13.313 [main] INFO   - Move to Women category
+2019-01-28 00:01:16.216 [main] INFO   - Click on evening Dresses
+2019-01-28 00:01:18.445 [main] INFO   - Open Product in new tab
+2019-01-28 00:01:18.461 [main] INFO   - Switch to new tab
+2019-01-28 00:01:18.582 [main] INFO   - Switch to pink color
+2019-01-28 00:01:18.797 [main] INFO   - Select L size
+2019-01-28 00:01:21.665 [main] INFO   - Click Add to cart button
+2019-01-28 00:01:21.840 [main] INFO   - Click Continue shopping button
+2019-01-28 00:01:22.365 [main] ERROR  - null
+2019-00-01 00:00:51.731 [main] INFO   - Opened site
+2019-00-01 00:00:54.000 [main] INFO   - Click on Login Link
+2019-00-01 00:00:57.522 [main] INFO   - Fill data for auth
+2019-00-01 00:00:57.620 [main] INFO   - Move to Women category
+2019-01-01 00:01:00.767 [main] INFO   - Click on evening Dresses
+2019-01-01 00:01:03.144 [main] INFO   - Open Product in new tab
+2019-01-01 00:01:03.159 [main] INFO   - Switch to new tab
+2019-01-01 00:01:03.280 [main] INFO   - Switch to pink color
+2019-01-01 00:01:03.488 [main] INFO   - Select L size
+2019-01-01 00:01:04.741 [main] INFO   - Click Add to cart button
+2019-01-01 00:01:04.920 [main] INFO   - Click Continue shopping button
+2019-01-01 00:01:22.806 [main] INFO   - Move to Cart icon
+2019-01-01 00:01:38.447 [main] INFO   - Opened site
+2019-01-01 00:01:41.627 [main] INFO   - Click on Login Link
+2019-01-01 00:01:45.316 [main] INFO   - Fill data for auth
+2019-01-01 00:01:45.413 [main] INFO   - Move to Women category
+2019-01-01 00:01:48.736 [main] INFO   - Click on evening Dresses
+2019-01-01 00:01:53.708 [main] INFO   - Open Product in new tab
+2019-01-01 00:01:53.723 [main] INFO   - Switch to new tab
+2019-01-01 00:01:53.843 [main] INFO   - Switch to pink color
+2019-01-01 00:01:54.045 [main] INFO   - Select L size
+2019-01-01 00:01:56.361 [main] INFO   - Click Add to cart button
+2019-01-01 00:01:56.535 [main] INFO   - Click Continue shopping button
+2019-01-01 00:01:56.610 [main] INFO   - Move to Cart icon
+2019-02-01 00:02:19.916 [main] INFO   - Opened site
+2019-02-01 00:02:23.245 [main] INFO   - Click on Login Link
+2019-02-01 00:02:26.610 [main] INFO   - Fill data for auth
+2019-02-01 00:02:26.701 [main] INFO   - Move to Women category
+2019-02-01 00:02:29.720 [main] INFO   - Click on evening Dresses
+2019-02-01 00:02:32.078 [main] INFO   - Open Product in new tab
+2019-02-01 00:02:32.094 [main] INFO   - Switch to new tab
+2019-02-01 00:02:32.213 [main] INFO   - Switch to pink color
+2019-02-01 00:02:32.412 [main] INFO   - Select L size
+2019-02-01 00:02:34.203 [main] INFO   - Click Add to cart button
+2019-02-01 00:02:34.388 [main] INFO   - Click Continue shopping button
+2019-02-01 00:02:34.463 [main] INFO   - Move to Cart icon
+2019-02-01 00:02:57.952 [main] INFO   - Opened site
+2019-03-01 00:03:00.901 [main] INFO   - Click on Login Link
+2019-03-01 00:03:03.425 [main] INFO   - Fill data for auth
+2019-03-01 00:03:03.510 [main] INFO   - Move to Women category
+2019-03-01 00:03:06.410 [main] INFO   - Click on evening Dresses
+2019-03-01 00:03:09.612 [main] INFO   - Open Product in new tab
+2019-03-01 00:03:09.627 [main] INFO   - Switch to new tab
+2019-03-01 00:03:09.744 [main] INFO   - Switch to pink color
+2019-03-01 00:03:09.939 [main] INFO   - Select L size
+2019-03-01 00:03:11.199 [main] INFO   - Click Add to cart button
+2019-03-01 00:03:11.369 [main] INFO   - Click Continue shopping button
+2019-03-01 00:03:11.448 [main] INFO   - Move to Cart icon
+2019-03-01 00:03:12.023 [main] ERROR  - null
+2019-23-01 00:23:32.693 [main] INFO   - Opened site
+2019-23-01 00:23:34.827 [main] INFO   - Click on Login Link
+2019-23-01 00:23:37.189 [main] INFO   - Fill data for auth
+2019-23-01 00:23:37.276 [main] INFO   - Move to Women category
+2019-23-01 00:23:39.961 [main] INFO   - Click on evening Dresses
+2019-23-01 00:23:41.789 [main] INFO   - Open Product in new tab
+2019-23-01 00:23:41.804 [main] INFO   - Switch to new tab
+2019-23-01 00:23:41.922 [main] INFO   - Switch to pink color
+2019-23-01 00:23:42.123 [main] INFO   - Select L size
+2019-23-01 00:23:43.383 [main] INFO   - Click Add to cart button
+2019-23-01 00:23:43.557 [main] INFO   - Click Continue shopping button
+2019-23-01 00:23:43.633 [main] INFO   - Move to Cart icon
+2019-23-01 00:23:43.634 [main] INFO   - Check Size and Color
+2019-25-01 00:25:38.424 [main] INFO   - Opened site
+2019-25-01 00:25:40.535 [main] INFO   - Click on Login Link
+2019-25-01 00:25:44.012 [main] INFO   - Fill data for auth
+2019-25-01 00:25:44.099 [main] INFO   - Move to Women category
+2019-25-01 00:25:46.843 [main] INFO   - Click on evening Dresses
+2019-25-01 00:25:50.426 [main] INFO   - Open Product in new tab
+2019-25-01 00:25:50.441 [main] INFO   - Switch to new tab
+2019-25-01 00:25:50.558 [main] INFO   - Switch to pink color
+2019-25-01 00:25:50.755 [main] INFO   - Select L size
+2019-25-01 00:25:52.554 [main] INFO   - Click Add to cart button
+2019-25-01 00:25:52.720 [main] INFO   - Click Continue shopping button
+2019-25-01 00:25:52.800 [main] INFO   - Move to Cart icon
+2019-25-01 00:25:52.801 [main] INFO   - Check Size and Color
+2019-36-01 00:36:45.527 [main] INFO   - Opened site
+2019-36-01 00:36:49.100 [main] INFO   - Click on Login Link
+2019-36-01 00:36:51.650 [main] INFO   - Fill data for auth
+2019-36-01 00:36:51.737 [main] INFO   - Move to Women category
+2019-36-01 00:36:55.079 [main] INFO   - Click on evening Dresses
+2019-36-01 00:36:57.272 [main] INFO   - Open Product in new tab
+2019-36-01 00:36:57.288 [main] INFO   - Switch to new tab
+2019-36-01 00:36:57.402 [main] INFO   - Switch to pink color
+2019-36-01 00:36:57.598 [main] INFO   - Select L size
+2019-36-01 00:36:58.859 [main] INFO   - Click Add to cart button
+2019-36-01 00:36:59.033 [main] INFO   - Click Continue shopping button
+2019-36-01 00:36:59.123 [main] INFO   - Move to Cart icon
+2019-36-01 00:36:59.729 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Product detail']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5065}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 0515587ea377502fa326863bf004963b
+*** Element info: {Using=xpath, value=//a[@title='Product detail']}
+2019-37-01 00:37:53.582 [main] INFO   - Opened site
+2019-37-01 00:37:58.291 [main] INFO   - Click on Login Link
+2019-38-01 00:38:00.843 [main] INFO   - Fill data for auth
+2019-38-01 00:38:00.928 [main] INFO   - Move to Women category
+2019-38-01 00:38:03.979 [main] INFO   - Click on evening Dresses
+2019-38-01 00:38:07.132 [main] INFO   - Open Product in new tab
+2019-38-01 00:38:07.147 [main] INFO   - Switch to new tab
+2019-38-01 00:38:07.264 [main] INFO   - Switch to pink color
+2019-38-01 00:38:07.460 [main] INFO   - Select L size
+2019-38-01 00:38:09.235 [main] INFO   - Click Add to cart button
+2019-38-01 00:38:09.416 [main] INFO   - Click Continue shopping button
+2019-38-01 00:38:09.495 [main] INFO   - Move to Cart icon
+2019-38-01 00:38:20.323 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Product detail']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-39-01 00:39:25.895 [main] INFO   - Opened site
+2019-39-01 00:39:29.048 [main] INFO   - Click on Login Link
+2019-39-01 00:39:32.076 [main] INFO   - Fill data for auth
+2019-39-01 00:39:32.162 [main] INFO   - Move to Women category
+2019-39-01 00:39:35.550 [main] INFO   - Click on evening Dresses
+2019-39-01 00:39:37.955 [main] INFO   - Open Product in new tab
+2019-39-01 00:39:37.970 [main] INFO   - Switch to new tab
+2019-39-01 00:39:38.089 [main] INFO   - Switch to pink color
+2019-39-01 00:39:38.284 [main] INFO   - Select L size
+2019-39-01 00:39:40.596 [main] INFO   - Click Add to cart button
+2019-39-01 00:39:40.764 [main] INFO   - Click Continue shopping button
+2019-39-01 00:39:40.843 [main] INFO   - Move to Cart icon
+2019-39-01 00:39:51.720 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Product detail']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-40-01 00:40:47.700 [main] INFO   - Opened site
+2019-40-01 00:40:51.152 [main] INFO   - Click on Login Link
+2019-40-01 00:40:54.572 [main] INFO   - Fill data for auth
+2019-40-01 00:40:54.659 [main] INFO   - Move to Women category
+2019-40-01 00:40:57.738 [main] INFO   - Click on evening Dresses
+2019-40-01 00:40:59.810 [main] INFO   - Open Product in new tab
+2019-40-01 00:40:59.825 [main] INFO   - Switch to new tab
+2019-40-01 00:40:59.943 [main] INFO   - Switch to pink color
+2019-41-01 00:41:00.137 [main] INFO   - Select L size
+2019-41-01 00:41:01.394 [main] INFO   - Click Add to cart button
+2019-41-01 00:41:01.566 [main] INFO   - Click Continue shopping button
+2019-41-01 00:41:01.645 [main] INFO   - Move to Cart icon
+2019-41-01 00:41:02.210 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Product detail']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5415}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 7c68af0c30d07142c21c6d0c1c0c16a5
+*** Element info: {Using=xpath, value=//a[@title='Product detail']}
+2019-03-01 01:03:01.672 [main] INFO   - Opened site
+2019-03-01 01:03:03.765 [main] INFO   - Click on Login Link
+2019-03-01 01:03:06.367 [main] INFO   - Fill data for auth
+2019-03-01 01:03:06.458 [main] INFO   - Move to Women category
+2019-03-01 01:03:09.526 [main] INFO   - Click on evening Dresses
+2019-03-01 01:03:11.597 [main] INFO   - Open Product in new tab
+2019-03-01 01:03:11.612 [main] INFO   - Switch to new tab
+2019-03-01 01:03:11.733 [main] INFO   - Switch to pink color
+2019-03-01 01:03:11.932 [main] INFO   - Select L size
+2019-03-01 01:03:13.190 [main] INFO   - Click Add to cart button
+2019-03-01 01:03:13.362 [main] INFO   - Click Continue shopping button
+2019-03-01 01:03:13.442 [main] INFO   - Move to Cart icon
+2019-03-01 01:03:24.357 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='remove this product from my cart']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-03-01 01:03:58.121 [main] INFO   - Opened site
+2019-04-01 01:04:00.496 [main] INFO   - Click on Login Link
+2019-04-01 01:04:03.297 [main] INFO   - Fill data for auth
+2019-04-01 01:04:03.384 [main] INFO   - Move to Women category
+2019-04-01 01:04:06.398 [main] INFO   - Click on evening Dresses
+2019-04-01 01:04:08.583 [main] INFO   - Open Product in new tab
+2019-04-01 01:04:08.598 [main] INFO   - Switch to new tab
+2019-04-01 01:04:08.717 [main] INFO   - Switch to pink color
+2019-04-01 01:04:08.913 [main] INFO   - Select L size
+2019-04-01 01:04:10.162 [main] INFO   - Click Add to cart button
+2019-04-01 01:04:10.338 [main] INFO   - Click Continue shopping button
+2019-04-01 01:04:10.418 [main] INFO   - Move to Cart icon
+2019-04-01 01:04:21.270 [main] ERROR  - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='remove this product from my cart']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-04-01 01:04:55.893 [main] INFO   - Opened site
+2019-04-01 01:04:58.002 [main] INFO   - Click on Login Link
+2019-05-01 01:05:00.950 [main] INFO   - Fill data for auth
+2019-05-01 01:05:01.035 [main] INFO   - Move to Women category
+2019-05-01 01:05:04.188 [main] INFO   - Click on evening Dresses
+2019-05-01 01:05:06.163 [main] INFO   - Open Product in new tab
+2019-05-01 01:05:06.178 [main] INFO   - Switch to new tab
+2019-05-01 01:05:06.294 [main] INFO   - Switch to pink color
+2019-05-01 01:05:06.493 [main] INFO   - Select L size
+2019-05-01 01:05:07.736 [main] INFO   - Click Add to cart button
+2019-05-01 01:05:07.919 [main] INFO   - Click Continue shopping button
+2019-05-01 01:05:07.995 [main] INFO   - Move to Cart icon
+2019-05-01 01:05:08.586 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='remove this product from my cart']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-ER', ip: '192.168.0.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\us-er\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:6850}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 164dde16542f1233fcc58e1f35b8ae38
+*** Element info: {Using=xpath, value=//a[@title='remove this product from my cart']}
+2019-05-01 01:05:51.374 [main] INFO   - Opened site
+2019-05-01 01:05:53.695 [main] INFO   - Click on Login Link
+2019-05-01 01:05:56.945 [main] INFO   - Fill data for auth
+2019-05-01 01:05:57.032 [main] INFO   - Move to Women category
+2019-05-01 01:05:59.841 [main] INFO   - Click on evening Dresses
+2019-06-01 01:06:02.048 [main] INFO   - Open Product in new tab
+2019-06-01 01:06:02.063 [main] INFO   - Switch to new tab
+2019-06-01 01:06:02.181 [main] INFO   - Switch to pink color
+2019-06-01 01:06:02.375 [main] INFO   - Select L size
+2019-06-01 01:06:03.633 [main] INFO   - Click Add to cart button
+2019-06-01 01:06:03.810 [main] INFO   - Click Continue shopping button
+2019-06-01 01:06:03.890 [main] INFO   - Move to Cart icon
+2019-06-01 01:06:03.933 [main] INFO   - Close current tab
+2019-06-01 01:06:39.685 [main] INFO   - Opened site
+2019-06-01 01:06:41.927 [main] INFO   - Click on Login Link
+2019-06-01 01:06:44.788 [main] INFO   - Fill data for auth
+2019-06-01 01:06:44.873 [main] INFO   - Move to Women category
+2019-06-01 01:06:47.653 [main] INFO   - Click on evening Dresses
+2019-06-01 01:06:50.243 [main] INFO   - Open Product in new tab
+2019-06-01 01:06:50.258 [main] INFO   - Switch to new tab
+2019-06-01 01:06:50.377 [main] INFO   - Switch to pink color
+2019-06-01 01:06:50.573 [main] INFO   - Select L size
+2019-06-01 01:06:51.825 [main] INFO   - Click Add to cart button
+2019-06-01 01:06:52.012 [main] INFO   - Click Continue shopping button
+2019-06-01 01:06:52.105 [main] INFO   - Move to Cart icon
+2019-06-01 01:06:52.147 [main] INFO   - Close current tab
+2019-13-01 01:13:10.956 [main] INFO   - Opened site
+2019-13-01 01:13:13.175 [main] INFO   - Click on Login Link
+2019-13-01 01:13:16.162 [main] INFO   - Fill data for auth
+2019-13-01 01:13:16.253 [main] INFO   - Move to Women category
+2019-13-01 01:13:19.273 [main] INFO   - Click on evening Dresses
+2019-13-01 01:13:21.455 [main] INFO   - Open Product in new tab
+2019-13-01 01:13:21.575 [main] INFO   - Switch to pink color
+2019-13-01 01:13:21.759 [main] INFO   - Select L size
+2019-13-01 01:13:23.543 [main] INFO   - Click Add to cart button
+2019-13-01 01:13:23.724 [main] INFO   - Click Continue shopping button
+2019-13-01 01:13:23.803 [main] INFO   - Move to Cart icon
+2019-13-01 01:13:23.844 [main] INFO   - Close current tab
+2019-13-01 01:13:43.110 [main] INFO   - Opened site
+2019-13-01 01:13:45.954 [main] INFO   - Click on Login Link
+2019-13-01 01:13:49.276 [main] INFO   - Fill data for auth
+2019-13-01 01:13:49.364 [main] INFO   - Move to Women category
+2019-13-01 01:13:52.856 [main] INFO   - Click on evening Dresses
+2019-13-01 01:13:54.896 [main] INFO   - Open Product in new tab
+2019-13-01 01:13:55.017 [main] INFO   - Switch to pink color
+2019-13-01 01:13:55.200 [main] INFO   - Select L size
+2019-13-01 01:13:56.998 [main] INFO   - Click Add to cart button
+2019-13-01 01:13:57.178 [main] INFO   - Click Continue shopping button
+2019-13-01 01:13:57.256 [main] INFO   - Move to Cart icon
+2019-13-01 01:13:57.299 [main] INFO   - Close current tab
